@@ -1,0 +1,9 @@
+canvas{
+  border: 0.2rem solid black
+}
+body{
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
